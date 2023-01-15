@@ -98,3 +98,32 @@ gap: 20px;
     opacity: 0.5;
 }
 `;
+
+export const User = styled.li`
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+margin-top: 20px;
+background: rgba(255,255,255,0.25);
+border-radius: 14px;
+width: 342px;
+height: 58px;
+border: none;
+outline: none;
+
+p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: white;
+}
+
+button{
+    background: none;
+    border: none;
+    cursor: pointer;
+    
+}
+`;
