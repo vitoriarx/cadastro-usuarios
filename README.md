@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# Para testar o código online: cadastro-usuarios-react.netlify.app
+### Para testar o código online: https://cadastro-usuarios-react.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
